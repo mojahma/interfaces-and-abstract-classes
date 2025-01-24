@@ -1,0 +1,15 @@
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\bin\Debug\net8.0\interfaces-and-abstract-classes.exe
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\bin\Debug\net8.0\interfaces-and-abstract-classes.deps.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\bin\Debug\net8.0\interfaces-and-abstract-classes.runtimeconfig.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\bin\Debug\net8.0\interfaces-and-abstract-classes.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\bin\Debug\net8.0\interfaces-and-abstract-classes.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\interfaces-and-abstract-classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\interfaces-and-abstract-classes.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\interfaces-and-abstract-classes.AssemblyInfo.cs
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\interfaces-and-abstract-classes.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\interfaces-and-abstract-classes.sourcelink.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\interfaces-and-abstract-classes.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\refint\interfaces-and-abstract-classes.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\interfaces-and-abstract-classes.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\interfaces-and-abstract-classes.genruntimeconfig.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\9. Interfaces-and Abstract-Classes\interfaces-and-abstract-classes\obj\Debug\net8.0\ref\interfaces-and-abstract-classes.dll
